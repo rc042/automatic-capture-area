@@ -16,7 +16,7 @@ This script simulates clicking through and screenshotting every page of the text
 
 Create an env:
 
-`python3 -m venv env; `source env/bin/activate`
+`python3 -m venv env; source env/bin/activate`
 
 Install:
 `pip install -r requirements.txt`
