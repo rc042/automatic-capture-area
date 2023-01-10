@@ -1,0 +1,10 @@
+1304,268
+2694,2158
+1757, 1042
+27
+
+# For MacOS user : If you use a retina display, you have to multiply by 2 "top left" and "bottom right"
+# First line = top left
+# Second line = bottom right
+# Third line = location of next button
+# Fourth line = total number of pages
