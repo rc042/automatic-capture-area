@@ -1,7 +1,7 @@
-1304,268
-2694,2158
+1304,  266
+2688, 2152
 1757, 1042
-27
+85
 
 # For MacOS user : If you use a retina display, you have to multiply by 2 "top left" and "bottom right"
 # First line = top left
